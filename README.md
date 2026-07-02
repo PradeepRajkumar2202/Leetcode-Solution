@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
