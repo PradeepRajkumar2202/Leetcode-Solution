@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
