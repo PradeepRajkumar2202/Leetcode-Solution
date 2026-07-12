@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
