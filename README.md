@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2652-sum-multiples](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2652-sum-multiples) |
 ## Array
 |  |
 | ------- |
