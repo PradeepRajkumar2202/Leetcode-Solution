@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2652-sum-multiples](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2652-sum-multiples) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PradeepRajkumar2202/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
